@@ -8,4 +8,12 @@ body {
 #fejlec {
     margin: auto;
     text-align: center;
+    background-color: #1f6300;
+    color: white;
+}
+
+#logo {
+    width: 100px;
+    margin: auto;
+    padding-bottom: 10px;
 }
