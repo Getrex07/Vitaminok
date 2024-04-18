@@ -3,17 +3,41 @@ body {
     background-color: #95e876;
 }
 
-
-
-#fejlec {
+.fejlec {
     margin: auto;
     text-align: center;
     background-color: #1f6300;
     color: white;
+    margin-bottom: 30px;
 }
 
 #logo {
     width: 100px;
     margin: auto;
     padding-bottom: 10px;
+}
+
+.fejlec a:hover {
+    color: white;
+    border: 2px solid #123600;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.background {
+    
+
+}
+
+.tartalom {
+    background-color: #1f6300;
+}
+
+.vitamin {
+    width: 100px;
 }
