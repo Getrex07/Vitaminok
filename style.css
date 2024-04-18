@@ -24,20 +24,28 @@ body {
     padding-right: 20%;
 }
 
+.background {
+    margin-top: 20px;
+}
+
 a {
     color: white;
     text-decoration: none;
 }
 
-.background {
-    
-
-}
-
 .tartalom {
     background-color: #1f6300;
+    color: white;
 }
 
 .vitamin {
     width: 100px;
+    margin-top: 20%;
+    margin-left: 20%;
+    margin-right: 10%;
+}
+
+h1 {
+    padding-top: 10px;
+    font-size: x-large;
 }
