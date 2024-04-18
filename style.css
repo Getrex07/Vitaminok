@@ -8,10 +8,10 @@ body {
     text-align: center;
     background-color: #1f6300;
     color: white;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
-#logo {
+.logo {
     width: 100px;
     margin: auto;
     padding-bottom: 10px;
@@ -48,4 +48,16 @@ a {
 h1 {
     padding-top: 10px;
     font-size: x-large;
+}
+
+.alj {
+    position: sticky;
+    background-color: #95e876;
+    width: 100%;
+    top: 0;
+}
+
+.menualj {
+    background-color: #95e876;
+    height: 15px;
 }
